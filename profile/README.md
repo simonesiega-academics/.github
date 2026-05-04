@@ -14,34 +14,3 @@
 </p>
 
 <p><em>This organization collects projects built across my academic journey, documenting my learning path through core computer science topics.</em></p>
-
-```ts
-const academicProjects = {
-  owner: "Simone Siega",
-  focus: [
-    "Algorithms & Data Structures",
-    "Operating Systems",
-    "Computer Networks",
-    "Databases & SQL",
-    "Software Engineering",
-    "Web Development",
-    "Mobile Development",
-    "Experimental AI",
-    "Game Development",
-  ],
-  builtWith: [
-    "Java",
-    "Rust",
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "PHP",
-    "Flutter",
-    "Dart",
-    "MySQL",
-    "PostgreSQL",
-    "Godot",
-  ],
-  purpose: "Archive academic work, experiments, and learning projects",
-};
-```
